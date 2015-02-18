@@ -10,3 +10,6 @@ Mapa hontan entzuleek irratia nondik eta nola entzuten duten adierazi ahal izang
 * Igo `ttn-nondik` direktorioaren edukia sortu berri duzunera
 * Web zerbitzariari baimena eman behar diozu ´nondik.js´ fitxategia editatzeko (664 adibidez)
 * Webgunea bixitatu! (http://zureweb/nondik)
+
+## Egiteke
+* Google Maps ordeztu beste aukera "libreagoren" batekin
