@@ -3,7 +3,6 @@ Mapa hontan entzuleek irratia nondik eta nola entzuten duten adierazi ahal izang
 
 
 ## Erabiltzeko
-FTP bidez:
 * Deskargatu `ttn-nondik` 
 * Sortu zure webgunean azpidirektorio bat, `nondik` adibidez (http://zureweb/nondik)
 * `nondik.js` eta `nondik.php` fitxategietan aldaketa batzuk egin beharko dituzu zure beharretara egokitzeko
