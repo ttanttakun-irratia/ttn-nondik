@@ -8,7 +8,7 @@ Mapa hontan entzuleek irratia nondik eta nola entzuten duten adierazi ahal izang
 * Sortu zure webgunean azpidirektorio bat, `nondik` adibidez (http://zureweb/nondik)
 * `index.html` fitxategian testu pila dago aldatu beharrekoa, eta `nondik.js` eta `nondik.php` fitxategietan aldagai batzuk ere bai
 * Igo `ttn-nondik` direktorioaren edukia sortu berri duzunera
-* Web zerbitzariari baimena eman behar diozu ´nondik.json´ fitxategia editatzeko (664 adibidez)
+* Web zerbitzariari baimena eman behar diozu `nondik.json` fitxategia editatzeko (664 adibidez)
 * Webgunea bixitatu! (http://zureweb/nondik)
 
 ## Egiteke
